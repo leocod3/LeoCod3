@@ -43,55 +43,25 @@ class Leonardo:
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 🛠️ Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
+
 ⚙️ Tecnologias
 Tecnologia	Nível atual	Foco
 🐍 Python	🟢 Estudando	Back-end / Lógica
+
 🌱 Django	🟡 Aprendendo	Web / Back-end
+
 🗄️ SQLite	🟡 Aprendendo	Banco de dados
+
 🌐 HTML	🟢 Estudando	Estrutura Web
+
 🎨 CSS	🟢 Estudando	Interfaces
+
 ⚡ JavaScript	🟡 Aprendendo	Interatividade
+
 🔧 Git	🟡 Aprendendo	Versionamento
+
 🐙 GitHub	🟢 Utilizando	Portfólio / Projetos
-🚀 Roadmap
-<details> <summary><b>📚 Fundamentos</b></summary> <br>
- Lógica de programação
- Fundamentos de Python
- HTML
- CSS
- JavaScript avançado
- Estruturas de dados
- Algoritmos
-</details> <details> <summary><b>🐍 Backend</b></summary> <br>
- Python básico
- Python intermediário
- Python avançado
- Django
- Django REST Framework
- APIs REST
- Autenticação
- CRUD
- Arquitetura de aplicações
- Boas práticas
- Testes automatizados
-</details> <details> <summary><b>🗄️ Banco de Dados</b></summary> <br>
- SQLite
- SQL intermediário
- PostgreSQL
- Modelagem de dados
- Relacionamentos
- ORM
- Otimização de consultas
-</details> <details> <summary><b>☁️ Próximos passos</b></summary> <br>
- Docker
- Linux
- Deploy
- Cloud
- CI/CD
- Git avançado
- Segurança de APIs
- Arquitetura de software
-</details>
+
 🚀 Projetos
 <div align="center">
 🍽️ Restaurantes
