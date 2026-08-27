@@ -120,9 +120,13 @@ Estou procurando minha primeira oportunidade profissional na área de tecnologia
 Tenho interesse principalmente em:
 
 🐍 Estágio em Python
+
 💻 Estágio em Desenvolvimento Back-end
+
 🌐 Estágio em Desenvolvimento Web
+
 🚀 Desenvolvedor Back-end Júnior
+
 🎓 Programas de formação em tecnologia
 
 Ainda estou no começo da minha jornada, mas tenho algo que considero essencial:
@@ -130,28 +134,6 @@ Ainda estou no começo da minha jornada, mas tenho algo que considero essencial:
 vontade de aprender, construir e evoluir.
 
 Se você procura alguém que esteja disposto a aprender e crescer junto com a equipe, vamos conversar!
-
-📚 O que estou buscando aprender
-                    ┌─────────────────────┐
-                    │     APRENDIZADO     │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-          🐍 Python          🌱 Django        🗄️ SQL
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                         🔌 APIs REST
-                               │
-                               ▼
-                         🧪 TESTES
-                               │
-                               ▼
-                          🐳 DOCKER
-                               │
-                               ▼
-                          ☁️ DEPLOY
 
 ⚡ Filosofia
 <div align="center">
@@ -182,7 +164,7 @@ Repetir.
 
 </div>
 🌎 Vamos conversar?
-<div align="center"> <a href="https://github.com/leocod3"> <img src="https://img.shields.io/badge/GitHub-leocod3-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://github.com/leocod3"> <img src="https://img.shields.io/badge/GitHub-leocod3-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/leoferreira03/en/"> <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
 
 💬 Aberto a networking, projetos, aprendizado e oportunidades.
 
