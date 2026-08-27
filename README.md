@@ -109,10 +109,6 @@ Tecnologia	Nível atual	Foco
 <br><br>
 
 <a href="https://github.com/leocod3/Easy-Finance"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
-📊 GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocod3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocod3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=leocod3&theme=tokyonight&hide_border=true" width="70%"/> </div>
-📈 Minha atividade
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leocod3&bg_color=0D1117&color=00E5FF&line=0D47A1&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div>
 🐍 Contribuições
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
 🎯 Atualmente
