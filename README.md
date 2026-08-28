@@ -79,6 +79,16 @@ Tecnologia	Nível atual	Foco
 <br><br>
 
 <a href="https://github.com/leocod3/Easy-Finance"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+
+<br><br><br>
+
+✅​ Task Flow
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+<a href="https://github.com/leocod3/Task-Flow"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+
 🐍 Contribuições
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
 🎯 Atualmente
