@@ -33,16 +33,33 @@ class Leonardo:
 
 🚀 Meu objetivo é transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-🧠 Minha Stack
+## 🧠 Minha Stack
+
 <div align="center">
-🐍 Backend
-<img src="https://skillicons.dev/icons?i=python,django" />
-🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=sqlite" />
-🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
+
+### ⚙️ Backend
+
+<img height="45" src="https://skillicons.dev/icons?i=python,django" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img height="45" src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img height="45" src="https://skillicons.dev/icons?i=sqlite" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img height="45" src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ⚙️ Tecnologias
 Tecnologia	Nível atual	Foco
