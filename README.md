@@ -62,45 +62,71 @@ Tecnologia	Nível atual	Foco
 
 🐙 GitHub	🟢 Utilizando	Portfólio / Projetos
 
-🚀 Projetos
+## 🚀 Projetos
+
 <div align="center">
-🍽️ Restaurantes
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+### 🍽️ **Restaurantes**
+
+<img height="40" src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
-<a href="https://github.com/leocod3/restaurantes"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
-
-<br><br><br>
-
-🚗 Tapeçaria Facil
-<img src="https://skillicons.dev/icons?i=python,django" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
+<a href="https://github.com/leocod3/restaurantes">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 <br><br>
 
-<a href="https://github.com/leocod3/Tape-aria-Facil"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
+---
 
-<br><br><br>
+### 🚗 **Tapeçaria Fácil**
 
-💰 Easy Finance
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img height="40" src="https://skillicons.dev/icons?i=python,django,sqlite" />
 
-<br><br>
+<br>
 
-<a href="https://github.com/leocod3/Easy-Finance"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
-
-<br><br><br>
-
-✅​ Task Flow
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br><br>
 
-<a href="https://github.com/leocod3/Task-Flow"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+<a href="https://github.com/leocod3/Tape-aria-Facil">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
+
+---
+
+### 💰 **Easy Finance**
+
+<img height="40" src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+<a href="https://github.com/leocod3/Easy-Finance">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
+
+---
+
+### ✅ **Task Flow**
+
+<img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+<a href="https://github.com/leocod3/Task-Flow">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
 
 🐍 Contribuições
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
