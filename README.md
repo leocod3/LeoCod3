@@ -73,6 +73,19 @@ Tecnologia	Nível atual	Foco
 
 <br><br><br>
 
+🚗 Tapeçaria Facil
+<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<br><br>
+
+<a href="https://github.com/leocod3/Tape-aria-Facil"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
+
+<br><br><br>
+
 💰 Easy Finance
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
