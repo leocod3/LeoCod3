@@ -78,7 +78,7 @@ Tecnologia	Nível atual	Foco
 
 <br><br>
 
-<a href="https://github.com/leocod3/Easy-Finance"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+<a href="https://github.com/leocod3/Easy-Finance"> <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
 
 <br><br><br>
 
